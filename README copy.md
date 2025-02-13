@@ -1,4 +1,3 @@
-# RainBowPoems-Pub
 ---
 business_units: ['DigitalW']
 company_units: ['DigitalW']
